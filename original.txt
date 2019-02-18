@@ -5,3 +5,4 @@ make some changes on the local test branch.
 merge together
 
 change, change, change on the master, change the same file as the other brach does, which will has the conflict
+
